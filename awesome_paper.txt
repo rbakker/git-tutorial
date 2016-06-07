@@ -1,7 +1,7 @@
 ***ISUE***: underline all headlines (abstract, results)
 
 Authors:
-***ISSUE***: decide who is first and last
+bakker r, blundell i, buttler s, dahmen d, duarte rcf, einfalls l, flejtis t, pglp m, tetzlaff t, voges n
 
 Abstract:
 ***ISSUE***: write a nice greeting for the beginning
